@@ -26,6 +26,15 @@ export const projects = [
     visit: 'https://chat-app-prod-x2ss.onrender.com/',
     id: 2,
   },
+  {
+    title: 'Digital Catalog',
+    description: "Digital Catalog with account creation and online orders and payment via PIX.",
+      image: '/images/catalog.png',
+      tags: ['Next.js', 'TypeScript', 'MongoDB'],
+    source: 'https://github.com/FelipeAlcantaraVieira',
+    visit: 'https://catalogo-agro.vercel.app/',
+    id: 3,
+  },
 
 ];
 
